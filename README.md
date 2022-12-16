@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+- 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to watch Anime and listen music.
 
 - 💬 Ask me about **anything you want**
