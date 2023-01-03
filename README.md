@@ -58,13 +58,13 @@
 </table>
 
 <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesak&count_private=true&theme=aura" ></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesak&theme=aura&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats" ></p>
 </br>
 
 
 <h1 align="center">Github Stats</h1>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codesak&show_icons=true&theme=aura" alt="" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codesak&theme=aura&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats" alt="" />
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=codesak&theme=tokyonight"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesak&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 <p align="center">
