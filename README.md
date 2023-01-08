@@ -11,11 +11,11 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <a href="https://www.instagram.com/sakshamexo/">
-  <img align="left" alt= "Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt= "Instagram" width="22px" src="https://user-images.githubusercontent.com/95493355/211217240-5d9ebd51-a92f-4844-980a-a805f8e36d28.png" />
 </a>
 
 <a href="https://twitter.com/itzclyro">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://user-images.githubusercontent.com/95493355/211217287-a6be60d8-75d1-477a-935c-3014ef5a7489.png" />
 </a>
 
 <a href="https://open.spotify.com/user/31sud5fwwmbd76zom7m2saatbzma">
