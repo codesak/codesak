@@ -2,8 +2,7 @@
 <h1 align="center">Hi there,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Saksham Verma</h1>
 
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+- 👯 I’m looking to collaborate with others.
 - ⚡ Fun fact: I love to watch Anime and listen music.
 
 - 💬 Ask me about **anything you want**
