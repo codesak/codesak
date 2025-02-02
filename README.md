@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning GraphQl, Graph Database, AWS<br><br>👨‍💻 All of my projects are available at https://portfolio-codesak.vercel.app/<br>
-<br>💬 Ask me about full stack development<br><br>📫 How to reach me sakshamverma7844@gmail.com<br><br>📄 Know about my experiences https://sakshamverma.in/<br><br>⚡ Fun fact apart from coding I sleep
+🌱 I’m currently learning GraphQl, Graph Database, AWS<br><br>👨‍💻 All of my projects are available at https://sakshamverma.in<br>
+<br>💬 Ask me about full stack development<br><br>📫 How to reach me sakshamverma7844@gmail.com<br><br>📄 Know about my experiences https://sakshamverma.in<br><br>⚡ Fun fact apart from coding I sleep
 
 
 ## 🌐 Socials:
